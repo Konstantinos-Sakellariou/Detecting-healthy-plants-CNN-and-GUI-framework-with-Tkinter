@@ -6,7 +6,7 @@
 
 2) Open the project in Pycharm and run the file GUI.py . 
 
-3) The GUI.py file calls inside functions, the pre-trained convolutional neural network through the file 'finalized_model.sav'.
+3) The GUI.py file calls inside functions, the pre-trained convolutional neural network through the file 'finalized_model.sav'. If this file don't apply, train and save the CNN model again.
 
 4) The Decision Support System runs also in the Virtual Machine. This is provided to us in the assignment as requirement.
 
